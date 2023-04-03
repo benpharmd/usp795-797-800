@@ -26,6 +26,22 @@ Designated Person (DP) oversees
 - Ensures that Standard Operating Procedures (SOPs) are fully implemented
 - DP must be identified in facility's SOPs
 
+### Training
+Must have initial training, a refresher every 12 months, and ongoing monitoring (overseen by DP)
+Core Competencies include
+- Hand hygiene
+- Garbing
+- Cleaning and sanitizing 
+- Handling/transporting of CNSPs
+- Measuring and mixing
+- Proper use of equipment/devices used with CNSPs
+- Documentation of compounding --> Master Formulation and Compounding Records
+- Knowledge and understanding of USP 795
+- Understands Safety Data Sheets (SDS) and Certificate of Analysis (COA)
+- Reads and understands procedures related to compounding duties
+- Personnel demonstrates compentency after being guided throughout the process of compounding CNSPs, afterwhich they may compound without direct supervision
+- Records of competencies must be kept on site
+
 ## USP797
 
 ## USP798
