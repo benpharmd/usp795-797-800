@@ -17,15 +17,14 @@ There are several pending changes to USP coming in Nov 2023.
 - Compound Records
 - Quality Assurance and Quality Control are more robust, including compliant and adverse event investigations
 
-### Scope
-- USP 795 applies to all persons who prepare Compounded Non-Sterile Preparations (CNSPs) and all places where they are prepared
-- Designated Person (DP) oversees
--- Training program to ensure competency 
--- Selects components
--- Monitors/observes compounding activities --> implements corrective action if needed
--- Establish, document and monitor procedures for handling and storage of CNSPs and their components
--- Ensures that Standard Operating Procedures (SOPs) are fully implemented
--- DP must be identified in facility's SOPs
+### Scope -- USP 795 applies to all persons/places who prepare Compounded Non-Sterile Preparations (CNSPs)
+Designated Person (DP) oversees
+- Training program to ensure competency 
+- Selects components
+- Monitors/observes compounding activities --> implements corrective action if needed
+- Establish, document and monitor procedures for handling and storage of CNSPs and their components
+- Ensures that Standard Operating Procedures (SOPs) are fully implemented
+- DP must be identified in facility's SOPs
 
 ## USP797
 
