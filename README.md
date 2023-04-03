@@ -42,6 +42,21 @@ Core Competencies include
 - Personnel demonstrates compentency after being guided throughout the process of compounding CNSPs, afterwhich they may compound without direct supervision
 - Records of competencies must be kept on site
 
+### Hygiene and Garbing
+Notify DP of potential contaminations which include rashes, recent tattoos, oozing sores, conjuctivitis, active respiratory infection. DP will make determination if personnel may compound
+
+Garbing
+- Must remove outer garments, jewelry on hands and wrists, earbuds or headphones
+- DP may permit accommodations if quality of environment and CNSPs will not be a affected
+
+Hand Hygiene
+- Before entering compounding area, must wash hands for at least 30 seconds
+- Hands must be dried completely with disposable towels/wipers
+- Don gloves - must be worn for all compounding
+- Use alcohol-based hand rub or replace before compounding a CNSP with different components
+- Must replace gloves if holes/punctures/tears are detected
+- Other garb required if deemed appropriate: shoe covers, head/hair covers, facial hair covers, face masks, gowns
+
 ## USP797
 
 ## USP798
