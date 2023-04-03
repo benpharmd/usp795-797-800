@@ -58,5 +58,21 @@ Hand Hygiene
 - Other garb required if deemed appropriate: shoe covers, head/hair covers, facial hair covers, face masks, gowns
 
 ## USP797
+### Summary
+- Must have a designated person (DP)
+- Risk categories are now Category 1, Category 2 and Category 3 Compounded Sterile Preparations (CSPs)
+- Training for Category 1 & 2 CSPs every 6mo now; Category 3 every 3mo
+- Compounding Aseptic Isolator (CAI) and Compounding Aseptic Containment Isolator (CACI) may only be used for Category 1 CSPs now. 12hr Beyond Use Dating (BUD) at room temp and 24hr BUD refrigerated. CAI and CACI in classified compounding suite may have longer BUDs
+- ISO 8 environment required to have 20 Air Changes Per Hour (ACPH)
+- Surface sampling for Category 1 & 2 CSPs must be completed monthly, and Category 3 sampling is weekly
+- Air sampling for Category 1 & 2 CSPs must be completed every 6 months, and Category 3 sampling is monthly
+- If Colony Forming Units (CFUs) outside of limit, must identify down to genus
+- Primary Engineering Control (PEC) requires sterile cleaning products
+- Sporicidal cleaning agents must be used monthly for Category 1 & 2 CSPs, and Weekly for Category 3 CSPs
+- Master Formulations for batched products and any CSP from non-sterile components now required
+- Compounding Records required
+- Single Dose Vials (SDVs) may be used up to 12hr as long as storage requirements are maintained
+
+### Scope -- USP 797 applies to all persons/places who prepare Compounded Sterile Preparations (CSPs)
 
 ## USP798
