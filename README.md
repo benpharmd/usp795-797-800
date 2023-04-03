@@ -74,5 +74,13 @@ Hand Hygiene
 - Single Dose Vials (SDVs) may be used up to 12hr as long as storage requirements are maintained
 
 ### Scope -- USP 797 applies to all persons/places who prepare Compounded Sterile Preparations (CSPs)
+Designated Person (DP) 
+- Oversees training program to ensure competency 
+- Is responsible for the performance and operation of facility and personnel compounding/using CSPs
 
-## USP798
+Types of CSPs
+Irrigations
+- For internal body cavities (eg. bladder or peritoneal cavities), must be sterile-compounded
+- Mouth, sinus and rectal cavities are not required to be sterile-compounded
+
+## USP800
