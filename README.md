@@ -83,4 +83,17 @@ Irrigations
 - For internal body cavities (eg. bladder or peritoneal cavities), must be sterile-compounded
 - Mouth, sinus and rectal cavities are not required to be sterile-compounded
 
+### Beyond Use Dating
+Category 1 CSPs
+- Compounded in SCA
+- 20-25C (room temp): 12 hour expiration
+- 2-8C (refrigerator): 24 hour expiration
+
+Category 2 CSPs
+Must consider preparation characteristics and storage conditions
+| Category 2 CSPs | Beyond Use Dating |
+| ---------- | ---------- |
+| Preparation characteristics | Storage conditions |
+| Compounding method | Sterility Testing Passed | 20-25C | 2-8C | -25 to -10C |
+
 ## USP800
