@@ -58,6 +58,16 @@ Hand Hygiene
 - Other garb required if deemed appropriate: shoe covers, head/hair covers, facial hair covers, face masks, gowns
 
 ## USP797
+
+### Scope -- USP 797 applies to all persons/places who prepare Compounded Sterile Preparations (CSPs)
+United States Pharmacopeia Chapter 797 (USP 797) is a set of guidelines for compounding sterile preparations, such as medications, diagnostic agents and intravenous solutions. USP 797 is intended to be used by healthcare personnel who prepare, dispense and administer compounded sterile preparations (CSPs).
+
+USP 797 provides the minimum standards and requirements for the design and operation of clean rooms, personnel training, environmental monitoring, cleaning and disinfecting, documentation and quality assurance of CSPs, storage and handling of CSPs.
+
+Designated Person (DP) 
+- Oversees training program to ensure competency 
+- Is responsible for the performance and operation of facility and personnel compounding/using CSPs
+
 ### Summary
 - Must have a designated person (DP)
 - Risk categories are now Category 1, Category 2 and Category 3 Compounded Sterile Preparations (CSPs)
@@ -72,11 +82,6 @@ Hand Hygiene
 - Master Formulations for batched products and any CSP from non-sterile components now required
 - Compounding Records required
 - Single Dose Vials (SDVs) may be used up to 12hr as long as storage requirements are maintained
-
-### Scope -- USP 797 applies to all persons/places who prepare Compounded Sterile Preparations (CSPs)
-Designated Person (DP) 
-- Oversees training program to ensure competency 
-- Is responsible for the performance and operation of facility and personnel compounding/using CSPs
 
 Types of CSPs
 Irrigations
