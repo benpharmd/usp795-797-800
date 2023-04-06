@@ -64,12 +64,8 @@ United States Pharmacopeia Chapter 797 (USP 797) is a set of guidelines for comp
 
 USP 797 provides the minimum standards and requirements for the design and operation of clean rooms, personnel training, environmental monitoring, cleaning and disinfecting, documentation and quality assurance of CSPs, storage and handling of CSPs.
 
-Designated Person (DP) 
-- Oversees training program to ensure competency 
-- Is responsible for the performance and operation of facility and personnel compounding/using CSPs
-
 ### Summary
-- Must have a designated person (DP)
+- Must have a designated person (DP) who oversees the training program to ensure competency, and is responsible for the performance and operation of the facility and personnel compounding/using CSPs
 - Risk categories are now Category 1, Category 2 and Category 3 Compounded Sterile Preparations (CSPs)
 - Training for Category 1 & 2 CSPs every 6mo now; Category 3 every 3mo
 - Compounding Aseptic Isolator (CAI) and Compounding Aseptic Containment Isolator (CACI) may only be used for Category 1 CSPs now. 12hr Beyond Use Dating (BUD) at room temp and 24hr BUD refrigerated. CAI and CACI in classified compounding suite may have longer BUDs
