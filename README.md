@@ -86,12 +86,10 @@ Irrigations
 
 ### Cleanroom Area
 
-Ante Room (Pass-Thru to general pharmacy) - ISO Class 8
-Buffer Room - ISO Class 7 
-Laminar Flow Clean Bench - ISO Class 5
-- eg. Baker EGB-6252
-Biological Safety Cabinet - ISO Class 5
-- eg. Baker SG603TX
+- Ante Room (Pass-Thru to general pharmacy) - ISO Class 8
+- Buffer Room - ISO Class 7 
+- Laminar Flow Clean Bench - ISO Class 5 (eg. Baker EGB-6252)
+- Biological Safety Cabinet - ISO Class 5 (eg. Baker SG603TX)
 
 ### Beyond Use Dating
 Category 1 CSPs
