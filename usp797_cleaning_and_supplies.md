@@ -12,10 +12,10 @@ Gloves
 Frocks
 
 ### Disinfectants 
-Daily cleaner
+#### Daily cleaner
 - eg. Contec TB1-3300
 - Active Ingredients: EtOH 72.55%, Didecyl Dimethyl Ammonium Chloride 0.33%, Other 27.17%
-Weekly cleaner (sporicidal)
+#### Weekly cleaner (sporicidal)
 - eg. Contec Peridox RTU
 - Active Ingredients: Hydrogen Peroxide 4.40%, Peroxyacetic Acid 0.23%, Other 95.37%
 ## Cleaning Schedule
